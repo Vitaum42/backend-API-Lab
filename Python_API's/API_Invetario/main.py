@@ -1,6 +1,8 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 
+#Para iniciar a API, use no bash o comando abaixo:
+#uvicorn main:app --reload
 app = FastAPI()
 
 #Criando uma classe de Usuario (oque sera solicitado ao cliente para preenchimento)
