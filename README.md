@@ -24,7 +24,7 @@ Evoluir as habilidades em desenvolvimento back-end e construir uma base sólida 
 
 🚧 Em desenvolvimento — novos projetos serão adicionados continuamente.
 ---
-Guia Completo
+🚀 Guia Completo
 
 Este documento reúne **todos os comandos de terminal (Bash)** utilizados durante a criação da API com FastAPI, além de explicar os principais **métodos HTTP (GET, POST, etc.)** de forma clara e prática.
 
